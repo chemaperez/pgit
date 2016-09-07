@@ -1,1 +1,8 @@
 C:\Users\grodriguezpe\Desktop\pGit\Pgit\Pgit\bin\Debug\Pgit.exe.config
+C:\Users\grodriguezpe\Desktop\pGit\Pgit\Pgit\bin\Debug\Pgit.exe
+C:\Users\grodriguezpe\Desktop\pGit\Pgit\Pgit\bin\Debug\Pgit.pdb
+C:\Users\grodriguezpe\Desktop\pGit\Pgit\Pgit\obj\Debug\Pgit.csprojResolveAssemblyReference.cache
+C:\Users\grodriguezpe\Desktop\pGit\Pgit\Pgit\obj\Debug\Pgit.Properties.Resources.resources
+C:\Users\grodriguezpe\Desktop\pGit\Pgit\Pgit\obj\Debug\Pgit.csproj.GenerateResource.Cache
+C:\Users\grodriguezpe\Desktop\pGit\Pgit\Pgit\obj\Debug\Pgit.exe
+C:\Users\grodriguezpe\Desktop\pGit\Pgit\Pgit\obj\Debug\Pgit.pdb
